@@ -1,0 +1,15 @@
+Kadin Khalloufi kkhallo1
+Melissa Martinez mmart213
+
+Melissa's contributions: I did the majority of the implementation and error checking in puzzle.c, as well as the commands for C, T, I, P, W, K, and Q.
+I also created the Makefile as well as the function declarations and comments for the commands I implemented (as mentioned above).
+
+Regarding the implementation, I thought it was clever to have the command implementation functions return 0 or 1 depending on whether it worked or not. On a similar note, I returned errors within the command functions because several errors can occur within a command and I didn't want to limit it by returning 0 and having one error return in main. 
+
+When calling these functions, if they scanned anything from file/input, I thought it was smart to have an initial "if statement" that handles both file input and user input. This way, we don't have to have two switch statements and two functions for every command, one that handles file input and the other that handles user input. 
+
+Kadin's contributions: I completed the S and V command as well as the recursive technique used to solve the puzzle. In addition, I adjusted the W command to include the black square in the "0" tile. I fixed all of the valgrind data leaks as well as made the majority of the assert statements needed in the test function file. I also fixed the destory puzzle function needed in the Q command to ensure there were no leaks.
+
+One thing I thought was clever about my implementation was the recursion technique I used to solve the puzzle. Initially the processing time took too long even for a 3x3 puzzle so implementing the check for opposite move helped the compile time! By adding the previous move into the function parameters, I was able to create another function that would check if the previous move was used already (ex 'l' cannot be used if the previous move was a 'r'). This greatly reduced the compile time and was able to solve the problems quicker.
+
+Another technique in the solver I enjoyed was making an array of null characters that would be filled with the correct moves if the program returns successful. This will then print to the main function with the moves used. This avoids the brute force approach of my code resulting in printing an incorrect move to the user.

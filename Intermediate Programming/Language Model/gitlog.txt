@@ -1,0 +1,389 @@
+commit 209f5e66d4167cf41494fb066e72a8be82e5815f
+Author: Melissa <melissam021004@gmail.com>
+Date:   Thu Nov 2 22:35:12 2023 -0400
+
+    errors output to cerr now, not cout
+
+commit 482316b80faa3dc8079db6789b679e54529a8c2c
+Author: Melissa <melissam021004@gmail.com>
+Date:   Thu Nov 2 22:22:14 2023 -0400
+
+    Code should be done, readme included
+
+commit 719c64ed35b074078c35b421a175ad2dea3fb9dc
+Author: Melissa <melissam021004@gmail.com>
+Date:   Thu Nov 2 22:15:08 2023 -0400
+
+    code seems to be done, bar final checks
+
+commit 8d5db992c73e213ee4b526d7fd425cd0d1df2f62
+Author: Melissa <melissam021004@gmail.com>
+Date:   Thu Nov 2 21:32:33 2023 -0400
+
+    commands written, except for f
+
+commit 8329b7e8644203b4460fa6f4b27158be76815cff
+Author: Melissa <melissam021004@gmail.com>
+Date:   Thu Nov 2 17:06:25 2023 -0400
+
+    compare works
+
+commit 004189b0ebfada3210d1039c3f3d97d94487dcff
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Nov 1 20:41:54 2023 -0400
+
+    get_freqs is made and compiles, haven't checked
+
+commit f004920239a3b3414466610c6fee6abc78376217
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Nov 1 15:29:25 2023 -0400
+
+    added special words and some minor style changes
+
+commit dbde62534a2cc81a317db69b1aaa402ef3fc65fe
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Nov 1 15:00:08 2023 -0400
+
+    All mains should be working
+
+commit 0574ac38ce3f12af8660f39d3430c5e92369eec2
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Nov 1 13:16:28 2023 -0400
+
+    finished
+
+commit 8cf542b0341d236ac526fc52f0449ac7d6a10040
+Author: Melissa <melissam021004@gmail.com>
+Date:   Mon Oct 30 15:38:16 2023 -0400
+
+    part 1 and 2 are working, have not attempted part 3
+
+commit d1de5d26050f75c0fcf37b8a05e677c485100a48
+Author: Melissa <melissam021004@gmail.com>
+Date:   Mon Oct 30 09:00:01 2023 -0400
+
+    scanning file of file names should be done
+
+commit 4787153255b624f2ca0b8ae6a21c6efa65b8e380
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sun Oct 29 13:40:07 2023 -0400
+
+    part B not working, not sure why
+
+commit 53e4381beefd39ec41c14ef86484f5dbdb8b1373
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Oct 25 13:59:13 2023 -0400
+
+    Final ex24
+
+commit 7c4e2077bdd913ba25a9f6939e455a0955979a00
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Oct 25 13:53:48 2023 -0400
+
+    finished the rest of ex24
+
+commit 2a99a0e4ba0d9c182d85c310385934e7b961a6f6
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Oct 25 13:46:04 2023 -0400
+
+    ex24 working i think
+
+commit 9825ecfc86e2ddfc1d6d34ea12b4e52e92dc7a93
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Oct 25 08:00:40 2023 -0400
+
+    Starter code for ex24
+
+commit acecdfbbb189eb5e1b7e33730d50c4a5f7811e48
+Author: Melissa <melissam021004@gmail.com>
+Date:   Mon Oct 23 14:04:24 2023 -0400
+
+    Working code
+
+commit 279e6956e53b006909ef6fd853bb552245b56ebf
+Author: Melissa <melissam021004@gmail.com>
+Date:   Mon Oct 23 09:06:46 2023 -0400
+
+    sort function written, there is probably an error in the for loop
+
+commit 1a25b6034a3fb9822e4fc6243962f2ad0a261f95
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sun Oct 22 20:43:52 2023 -0400
+
+    everything but sort is done
+
+commit 5bcee50ac181f225aedafba02b3fb3d129155d9b
+Author: Melissa <melissam021004@gmail.com>
+Date:   Mon Oct 16 11:58:15 2023 -0400
+
+    ex16 working
+
+commit 3cc7ba2ae6b89ce5ebd2a7f95809fd7aad35f9cf
+Author: Melissa <melissam021004@gmail.com>
+Date:   Mon Oct 16 10:48:58 2023 -0400
+
+    mini ex 1 done
+
+commit 04f67165d3feb42cc11934bad26f70b3169c17ae
+Author: Melissa <melissam021004@gmail.com>
+Date:   Mon Oct 16 09:03:56 2023 -0400
+
+    still not working, work through errors
+
+commit 2d3500fb2fc919946fa40b33e757ebf16ded81d6
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sun Oct 15 18:28:07 2023 -0400
+
+    work on main.c line 23
+
+commit 00dd69520253a72fd99387036f206342ac6ab9a8
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sun Oct 15 17:19:28 2023 -0400
+
+    ex12 done, presumably
+
+commit fd0cf4307d505decffb450eeec33052396d91323
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sun Oct 15 15:36:44 2023 -0400
+
+    ex11 done fr
+
+commit 75415f2bee87298996f2876b3e62c90f2ab37c48
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sun Oct 15 15:34:50 2023 -0400
+
+    ex11 done
+
+commit 0540fdf1758c4303382f5cf7a12dba46ae148cd8
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sun Oct 15 15:33:34 2023 -0400
+
+    ex11 complete (i hope)
+
+commit 392c73c1f774760ed4f12334c51fd3509ebd8998
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Oct 14 14:41:37 2023 -0400
+
+    ex10 done (hopefully)
+
+commit a9f434cc83e28d4294a803d42663305316f1f12c
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Oct 14 14:37:40 2023 -0400
+
+    ex10 done, presumably
+
+commit 0d374fb6de28c427cba91e5a1ed5ae1baf624023
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Oct 14 12:30:02 2023 -0400
+
+    ex09 done
+
+commit 590d2e2eaf1a4bf3dac1045f6ac9be46b51b54bf
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Oct 14 12:29:22 2023 -0400
+
+    ex08 presumably done
+
+commit 34ef8f65e785e6b2f39527d428467f3ebfefdec0
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Oct 14 12:18:16 2023 -0400
+
+    updated ex08
+
+commit 1f58135654a1c6182737f438f5668bd7d4107271
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Oct 14 12:06:51 2023 -0400
+
+    ex08 presumably done
+
+commit d94b4f9def3049e49d3ac36ae4d7405d01d98097
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Oct 14 11:38:48 2023 -0400
+
+    presumably complete ex7
+
+commit 7b140c00237e98ea3302d249a2bc4de4c32d20a9
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Oct 14 11:11:22 2023 -0400
+
+    ex06 presumably complete
+
+commit f5ed45ef0342d02d73770e9a5a67cb5bccf58355
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Oct 13 14:16:17 2023 -0400
+
+    ex06 presumably complete
+
+commit 5f92ae3f71249b22341478002f8e90d9abbb0239
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Oct 13 13:47:07 2023 -0400
+
+    ex 5 presumably done
+
+commit 172946a24b51cec5d71f2de3eec15e4f7f0f7e3c
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Oct 13 08:44:30 2023 -0400
+
+    ex4 done
+
+commit ce6b5f3333142c079daacc6593797f30b9bce404
+Author: Melissa <melissam021004@gmail.com>
+Date:   Thu Sep 28 18:41:56 2023 -0400
+
+    Final
+
+commit 0b71cf8b547be90f6317366c4beca81f067e6cc3
+Author: Melissa <melissam021004@gmail.com>
+Date:   Thu Sep 28 12:03:37 2023 -0400
+
+    Everything seems to work, add more tests to be safe
+
+commit 6d96d98c2c9d1d46c72d9db9198bcd838d07f161
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Sep 27 12:50:37 2023 -0400
+
+    All tests seem to be working, add more test functions
+
+commit 1ff8d79d94e312da719ae18aded5f2d0083cba90
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Sep 27 12:33:38 2023 -0400
+
+    All but last test working, tweak star
+
+commit dd41eed6189d78cf0c85f0734c5de0a51de87125
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Sep 27 12:21:59 2023 -0400
+
+    Tilda working for all examples, * and ? need tweaking
+
+commit 5e4cb261a1bcb4c571ed3cf6a31b25f5f5db7779
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Sep 27 09:04:45 2023 -0400
+
+    Star and ? missing another else-if statement and tilda missing letter after ~
+
+commit 84359f287d64adb8ad314baa70ef706566621e2c
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Sep 27 00:35:27 2023 -0400
+
+    Debugging and missing tilde
+
+commit a3e143e4bd4e74204c10341600f2538665cdec34
+Author: Melissa <melissam021004@gmail.com>
+Date:   Tue Sep 26 23:20:24 2023 -0400
+
+    Star in match is working, the rest is not written
+
+commit 374fb63584844b97a720e6fcb2aed59264c9239e
+Author: Melissa <melissam021004@gmail.com>
+Date:   Tue Sep 26 19:26:45 2023 -0400
+
+    working scan but match is still WIP
+
+commit 9c9b48cdf05cf881fe62e496c522efc399f85c77
+Author: Melissa <melissam021004@gmail.com>
+Date:   Thu Sep 14 16:09:40 2023 -0400
+
+    working coins.c, need to check
+
+commit eac5ee8166a2eef718b714a82f2ce523959439c2
+Author: Melissa <melissam021004@gmail.com>
+Date:   Thu Sep 14 11:48:33 2023 -0400
+
+    updated coins.c, still need to fix ctrl d situation
+
+commit f59683b0054f49c24dedd27536518fec0f2c90e4
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Sep 13 16:16:34 2023 -0400
+
+    updated coins.c but doesn't work
+
+commit 27cc88cefa78e4a5164da0fffe7926f2d5dffc66
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Sep 13 13:52:53 2023 -0400
+
+    updated coins.c, stopped at commands
+
+commit 05de0906fcf6d95be849a44d40d56c21790b7c8d
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Sep 13 13:23:58 2023 -0400
+
+    ex05 count3 working version
+
+commit 68c6df52d20ab8a26e6faa782c8578384840fd56
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Sep 13 12:26:01 2023 -0400
+
+    ex05 count2 working version
+
+commit f61884675a969dd5e56deeb54d9ceb7de2fed0fd
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Sep 13 12:19:28 2023 -0400
+
+    ex05 count1 working version
+
+commit 26e510c46f237e6afb74640b2a7a0d39859cb8f7
+Author: Melissa <melissam021004@gmail.com>
+Date:   Mon Sep 11 16:03:38 2023 -0400
+
+    ex04 gpa working version
+
+commit 8d845ed5931ff4440e523b11d472b3526eb856e8
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Sep 9 18:45:36 2023 -0400
+
+    created coins.c
+
+commit f05eb8a833b1b5575f0be20950db6e0ada3d9f43
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Sep 9 18:25:31 2023 -0400
+
+    updated one.c
+
+commit f5ccf3d940f4f351996f9188563a14e487cfc337
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Sep 9 18:21:07 2023 -0400
+
+    created three.c
+
+commit fb46c240853807497592c665ec76c0c3059fa616
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Sep 9 18:20:53 2023 -0400
+
+    created two.c
+
+commit 9435919e30d91b8f4b90b83163552843596c5fcc
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Sep 9 18:20:33 2023 -0400
+
+    created one.c
+
+commit e1ff831d0620dbd5c0f7ffdc9fc3dd1586f82a40
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Sep 9 17:44:33 2023 -0400
+
+    Updated comment on one.c
+
+commit 1d6ad55cc98eb38694d746fcd7e1ee7e324e3c5f
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Sep 9 17:35:28 2023 -0400
+
+    homework folder created
+
+commit 89dd4857d1a560d59ba51aea8d139b2e2d5ae2ef
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Sep 9 17:27:13 2023 -0400
+
+    created one.c for hw0
+
+commit 5ef5ab4a78d6b780c09729bb3c54bfe1bb625c9f
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Sep 8 08:47:15 2023 -0400
+
+    updated README
+
+commit 41dd258848660bd70e247eae7c6787c788311ab8
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Sep 8 08:43:41 2023 -0400
+
+    created README

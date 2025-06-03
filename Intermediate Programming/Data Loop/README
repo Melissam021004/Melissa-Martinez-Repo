@@ -1,0 +1,6 @@
+Melissa Martinez
+mmart213
+D4E3E5
+
+I essentially defined the methods similarly to how they were done in class exercises. I also created the clear() function because I realized that it would be necessary to do outside of the deconstructor. This method goes node by node and deletes its contents since those are the only dynamically allocated pieces of data. 
+I don't think anything I did was extremely clever but in the splice function, I realized that inserting the DL before or after the current DL would be the same so I combined them into one if statement. 

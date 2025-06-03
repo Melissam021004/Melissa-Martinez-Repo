@@ -1,0 +1,312 @@
+commit 213b76899d547beba76250fb93f7b1fb566a6b2b
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Wed Oct 25 21:33:15 2023 -0400
+
+    fixed errors, still errors in Valgrind
+
+commit 91f2ede7189f6c6b2e10e0e594649862434c482f
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Wed Oct 25 16:24:58 2023 -0400
+
+    hopefully pushes
+
+commit 4514b2c1342f764b1b6083f56212e4732650ac55
+Merge: dcdb64c 51cfa7a
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Wed Oct 25 16:23:40 2023 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2023-fall-midterm-kkhallo1-mmart213
+
+commit dcdb64c9854c69c949624ca126457d1da9562453
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Wed Oct 25 16:23:05 2023 -0400
+
+    fixed error
+
+commit 0c99e9e48c04b046d2aed85df696eb9e4671378d
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Wed Oct 25 16:22:24 2023 -0400
+
+    added old code
+
+commit a9f2b08beee8a64e375e8e84cbb61f2fb72b2be9
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Wed Oct 25 16:17:06 2023 -0400
+
+    fixing edge cases from piazza, still have valgrind errors
+
+commit 51cfa7a68f9ac63bc6e0ddebc702df7b807222f2
+Author: Melissa <melissam021004@gmail.com>
+Date:   Tue Oct 24 12:40:46 2023 -0400
+
+    fixed error on gradescope
+
+commit d5f6fd130e7ef3e66643f85d53cf00b92671353f
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Tue Oct 24 00:10:00 2023 -0400
+
+    Added Comments
+
+commit f3524653ef56aecd8cda346960cf7d6bd3112a11
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Mon Oct 23 23:25:40 2023 -0400
+
+    bug fixed, no valgrinds, all expectations met
+
+commit 808900240fa8ac5ad70e363251f0cdd9099303a8
+Author: Melissa <melissam021004@gmail.com>
+Date:   Mon Oct 23 22:09:01 2023 -0400
+
+    fixed K to handle 0 if not in last position
+
+commit 67b347cd1e2bd8e7b7707e2fd0f925b94e79d067
+Author: Melissa <melissam021004@gmail.com>
+Date:   Mon Oct 23 17:35:15 2023 -0400
+
+    Destroyed puzzle after errors are returned, added comments to the methods I implemented
+
+commit 0f5d6dd618f1ea2c3373b3fd33f8c7eae9f3bc7b
+Author: Melissa <melissam021004@gmail.com>
+Date:   Mon Oct 23 15:57:26 2023 -0400
+
+    rearranged validate_tiles to accomodate 0 to be anywhere
+
+commit 065bd6df326d220c4943bef42a03de19f4b62484
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Sun Oct 22 19:56:33 2023 -0400
+
+    made t function modulo
+
+commit cef851f83e67f03b1087e86ae6c1947b5d659c91
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sun Oct 22 19:30:07 2023 -0400
+
+    Added an error to t command
+
+commit 0afc517d07efb2db3827f27fca60dc7d0d4368f4
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sun Oct 22 19:14:35 2023 -0400
+
+    more modifications to T
+
+commit 6420e168043f26cb8c7174b5c87218e85cd6c1df
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sun Oct 22 19:01:34 2023 -0400
+
+    Modified T command
+
+commit 6255f1554b41fa0c6c337ca5dba89d419fce60e9
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sun Oct 22 18:51:51 2023 -0400
+
+    Fixed T to include size*size int
+
+commit 0edf3925bf8845a3b705ea0a1eec8ac0e4ac356c
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sun Oct 22 18:31:21 2023 -0400
+
+    Fixed grammar on error messages
+
+commit 8689b0a4c40f85a2aa26eff98150d3becaac335d
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sun Oct 22 18:29:55 2023 -0400
+
+    Fixed I command
+
+commit 77a42e1f28c488120141826dc10d7eeed2913434
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sun Oct 22 18:17:27 2023 -0400
+
+    fixed error messages, i hope
+
+commit cd51696ce55ec6eac6976ec4290f3e482d69463d
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Sun Oct 22 17:56:19 2023 -0400
+
+    finished README
+
+commit f37beafb872240684f999efdcd827eb07bec9ba3
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Sun Oct 22 17:46:50 2023 -0400
+
+    made the assert statements for almost all of the functions
+
+commit cc9ff1ce005694a634cb32641bbb9c329602a953
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Sun Oct 22 15:36:01 2023 -0400
+
+    no data leaks with valgrind, destroy puzzle works great as well
+
+commit 1f9bda1f7fd827b66425e1f5a932a03eb74c92c1
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sun Oct 22 15:04:12 2023 -0400
+
+    Read file made, I added my part to it
+
+commit f7e7f4c3ab7be227ab2b5fca48069715b150c702
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Sun Oct 22 14:46:24 2023 -0400
+
+    Valgrind issues are being fixed, fixed make file
+
+commit abc0bb09d90819df1f885ca35cf306cc5bb014ef
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Sun Oct 22 14:09:29 2023 -0400
+
+    command V works and so does print the process for 3x3 grids
+
+commit 8d2b7191a32f897f88cc7bdd0cd77e347bc47256
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Sat Oct 21 23:21:15 2023 -0400
+
+    command V doesnt work, changed command K and S to have outputs on the main function not inside the puzzle func
+
+commit 7b90d34b651e46f9e338026dec3570353e78b996
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Oct 21 20:54:09 2023 -0400
+
+    w works, fr this time
+
+commit 0fda2df9ca539fa86ecad8f76895ea66f781ce29
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Sat Oct 21 20:39:35 2023 -0400
+
+    S command works fully - need to edge check later
+
+commit 0fa51f5a8e7d0c0f53b30ce1bba20efaf178aa45
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Sat Oct 21 19:14:56 2023 -0400
+
+    black tile works
+
+commit 5bda07b69beef9069385381cc66cc05dd9332526
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Sat Oct 21 18:12:10 2023 -0400
+
+    changed logic functions
+
+commit 9fbb51ecafafb260b724ea138f0a64bce289879b
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Oct 21 17:21:23 2023 -0400
+
+    w function is working
+
+commit 621174fb478f85395701e8ee17de1c93b2968c75
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Oct 21 16:37:55 2023 -0400
+
+    Added comments explaining the functions in puzzle.h
+
+commit 1a21323ecb6293190860561b0f12aef005d426bf
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Oct 21 16:19:42 2023 -0400
+
+    Makefile now runs puzzle, added new line to stderr outputs
+
+commit e392c169be4ce6bcada1dd39be796d7817e84a88
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Oct 21 15:07:56 2023 -0400
+
+    W function is written, needs to be tested
+
+commit 388d7028aa05264d042f9ccd3f9a9f369189bab5
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Oct 21 13:41:06 2023 -0400
+
+    fixed k command and added to main
+
+commit 99bd3e25bee2eea64548ee7c23401ce394b2625f
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Oct 21 13:26:51 2023 -0400
+
+    Makefile working, all initial tests working also
+
+commit aa3d6693f2555e70ae2a60504c1b4dffbca7635a
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Oct 21 12:30:07 2023 -0400
+
+    worked on a Makefile (not working) and W command (unfinished)
+
+commit 04b1ecffc7c3625d2bee4a499b4d123a0cf077b4
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Oct 21 11:37:25 2023 -0400
+
+    moved main around to account for I being first input & changed helpers accordingly, handled K command
+
+commit 4028a8b12f0f137473dca5975c0571266886f622
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Oct 21 10:52:26 2023 -0400
+
+    I command is working
+
+commit 7b7b5fc18b1f902e11fc9e160d455156e063c804
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Oct 21 10:34:20 2023 -0400
+
+    set and get tiles is working, I command WIP
+
+commit ec5a5b141ec21dee13e5f69f0b058450f0c8e593
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Oct 21 10:21:30 2023 -0400
+
+    puzzle_get_tile is working
+
+commit 29494b9d50d9fd5cd21c52de69815d87fcf3594a
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Oct 20 23:09:11 2023 -0400
+
+    quick fix, nothing major, same as before
+
+commit cc29211ecfbdbe703de606514ceafa4bde5edc1f
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Oct 20 23:06:55 2023 -0400
+
+    handle_I_command should work now
+
+commit 90f8a263c6970906add1cc6cb2a1529a341855ee
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Oct 20 22:50:05 2023 -0400
+
+    added validate_tiles as well as validations to T and C
+
+commit 7b434b7cd8e870e025110c98901ef968618e5f41
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Oct 20 21:52:53 2023 -0400
+
+    T command is working, switch function is set up in main
+
+commit 917ce28781d50c89b71295fac53bd261044abc0a
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Oct 20 15:10:25 2023 -0400
+
+    puzzle_create and handle_C_command and file/command line reading seem to be working
+
+commit 74e2e916e2439baaaaa0eae62633ce6baf35a35a
+Author: Melissa <melissam021004@gmail.com>
+Date:   Thu Oct 19 17:41:49 2023 -0400
+
+    Made more edits in file reading and creating puzzles
+
+commit cf09ae3f10f4c47dad92b8716790ffab3f1d49e3
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Wed Oct 18 16:14:09 2023 -0400
+
+    working on reading C input
+
+commit 3192c42e5742ec34d2b98994cff6feffa67b682c
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Wed Oct 18 16:03:26 2023 -0400
+
+    filename is given in terminal line method made
+
+commit e75e6d47e2489e5a2acf979c7f1a11dddbc80059
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Oct 18 15:57:17 2023 -0400
+
+    read file checked for errors and function declarations added
+
+commit fe714e7057297c6e4747b0f4f0d531bc5978561a
+Author: Melissa <melissam021004@gmail.com>
+Date:   Tue Oct 10 17:30:28 2023 -0400
+
+    Starter files for project

@@ -1,0 +1,561 @@
+commit 370a98b272777a41281d96dde3f94df31d95fec1
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Fri Dec 8 21:45:15 2023 -0500
+
+    project is done
+
+commit 224342ed56affac82b6f8e681f6e8a87cc9616d0
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Fri Dec 8 21:04:23 2023 -0500
+
+    fully commented
+
+commit 069a7dec49360cc17783d825dc3a18ab0f976ada
+Merge: 3a6fca6 590ca57
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Fri Dec 8 20:45:06 2023 -0500
+
+    xMerge branch 'master' of github.com:jhu-ip/2023-fall-final-kkhallo1-mmart213-mhilser1
+
+commit 3a6fca60180f41af036354ac3b8f8388f08796c2
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Fri Dec 8 20:44:50 2023 -0500
+
+    added test case
+
+commit 590ca57e58e5d9ed60cafcee65d8f80a37d41599
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Dec 8 20:44:48 2023 -0500
+
+    Changed exception if-statements in plot.cpp
+
+commit 5441e41bdc97f39ddb43f352d6b2ff83baa37582
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Dec 8 20:35:00 2023 -0500
+
+    Added comments to renderer
+
+commit 24185a2ec36f4bf7f14a4303d7de6c4ef7523fa7
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Fri Dec 8 20:22:59 2023 -0500
+
+    mostly commented bruh
+
+commit 2e6741347b86f6819ff8d7f3be0dd886af8b0542
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Fri Dec 8 19:28:02 2023 -0500
+
+    no more errors; need to comment
+
+commit aec6765b083805512594fbf1590638b24f9c4160
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Fri Dec 8 18:17:14 2023 -0500
+
+    passes all tests
+
+commit ad6f7bc91dc5a9dc2795dddb7076abc61021f363
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Fri Dec 8 17:34:23 2023 -0500
+
+    typecasted to double
+
+commit 59940d768bcdf7d6ef354bb34a480a2f0e049348
+Merge: ca83081 a27ae37
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Fri Dec 8 16:05:22 2023 -0500
+
+    Merge branch 'master' of github.com:jhu-ip/2023-fall-final-kkhallo1-mmart213-mhilser1
+
+commit ca830810dae67d397c9cede7eb3e34957106fb32
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Fri Dec 8 16:05:13 2023 -0500
+
+    trying to bug test
+
+commit a27ae3760e2e5d16871df8135ff1e54b877436a5
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Dec 8 16:04:22 2023 -0500
+
+    Fixed errors
+
+commit 2ba596b075b6e3721cbef694c02a5e647c15ef81
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Dec 8 15:53:31 2023 -0500
+
+    added white color if no color specified
+
+commit b55be0f578c992626f18798dcbe5b41cf25a56cc
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Dec 8 15:37:44 2023 -0500
+
+    Some small changes to grid calcs
+
+commit 0cef420cd5d813148dd79e6c8cbb2eaca507af0d
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Dec 8 15:29:30 2023 -0500
+
+    Added floor function to colors
+
+commit 3206bbf1edf9e1a900aa0f9aefa9db31527e4d7e
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Fri Dec 8 15:23:57 2023 -0500
+
+    found error
+
+commit 536f1de5d26767cb7704fbd12b9f818405d650e8
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Fri Dec 8 14:41:15 2023 -0500
+
+    organized
+
+commit 0d55903d69f54cf7b929986924c5ba58e89a5b1b
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Dec 8 14:16:51 2023 -0500
+
+    function drawer seems complete
+
+commit 103b29d4bad5d3e4a78816e646e6b2383ab71694
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Dec 8 13:47:47 2023 -0500
+
+    Fill between works
+
+commit a5140924a56ecefcee31c88c996be937f2194935
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Dec 8 13:18:41 2023 -0500
+
+    Fill below works
+
+commit f7a4d719ef828a0f6585382ec5ed2030fe022a21
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Fri Dec 8 13:10:13 2023 -0500
+
+    added deconstructors to image
+
+commit 58846d54cf71879b55e11dff8df305e87c4a53e1
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Fri Dec 8 12:37:23 2023 -0500
+
+    cleaned
+
+commit 0f7ea1070f685357b4cd03a1bff0f2d23af7678c
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Dec 8 12:36:47 2023 -0500
+
+    fill above is done
+
+commit fc9aac3b4ee6c961aac965814c37daef7da6a4fe
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Dec 8 12:24:12 2023 -0500
+
+    First draft of fill above, has not been tested
+
+commit de4f2a406568e9ad8874bf8ed84483995a9811cd
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Dec 8 12:10:33 2023 -0500
+
+    Combined Martin and Mel's code in renderer.h and renderer.c
+
+commit 22d66c17b0ebb78b700472c0010387271d6aae0c
+Author: MartyHilser <mhilser2001@gmail.com>
+Date:   Fri Dec 8 11:17:23 2023 -0500
+
+    Addd getter
+
+commit 9f4971f2a1746abbfdda430be461b33f196bf3b2
+Author: MartyHilser <mhilser2001@gmail.com>
+Date:   Fri Dec 8 11:12:08 2023 -0500
+
+    Renderer fixed, not graphed yet
+
+commit fcce2744dd6a16861c241876582a2e9c4644b04e
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Fri Dec 8 11:03:45 2023 -0500
+
+    fix main
+
+commit 7d0aa57de00be97d4fe52cdfaa420779f97a59b9
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Dec 8 10:47:43 2023 -0500
+
+    Progress on the fills
+
+commit 9012910d1ab1ec7a3acf4422156cf0a99ef9f398
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Dec 8 10:47:33 2023 -0500
+
+    Progress on the fills
+
+commit 8d116d82df2871fcb0865a79cba73fc24cd69272
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Dec 8 10:00:01 2023 -0500
+
+    updating
+
+commit ba046f58e5bf8d05c632e88d1fcd431450dfbcc3
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Dec 8 09:33:12 2023 -0500
+
+    Started working on handleFills
+
+commit c031e0903bdfe5432fd73a6fb93199cbd1aacc71
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Dec 8 09:33:02 2023 -0500
+
+    Started working on handleFills
+
+commit b5bf484e94775ec2aa5f6c92724ffd78116edf4f
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Dec 8 09:11:41 2023 -0500
+
+    reader now handles storing fills
+
+commit d6fde7c46f43d3c92430309941022c86f6cc84a3
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Dec 8 09:11:18 2023 -0500
+
+    Reader sets fill
+
+commit cfb24d05305889e54b3459de2a0e1f032bc4c2be
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Fri Dec 8 02:20:13 2023 -0500
+
+    reader works
+
+commit 2e1962716a756d0676ba61d3e08c39f6e867637a
+Merge: 8757551 1af3b26
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Fri Dec 8 01:20:50 2023 -0500
+
+    fixing merge
+
+commit 87575518558e9ff2b0757eac3f7ac7f23569e252
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Fri Dec 8 01:16:17 2023 -0500
+
+    fixed the error
+
+commit 1af3b262cf037ead90ee773c7630dd820a2879c1
+Author: Melissa <melissam021004@gmail.com>
+Date:   Thu Dec 7 22:58:39 2023 -0500
+
+    nothing important, just testing some stuff
+
+commit 3b5bb37596bd2e0f959738daec55af4ade4e5f73
+Author: MartyHilser <mhilser2001@gmail.com>
+Date:   Thu Dec 7 18:16:49 2023 -0500
+
+    Eval bug
+
+commit c60815458a28bb9c481b6b480a28fcc8ee687669
+Author: MartyHilser <mhilser2001@gmail.com>
+Date:   Thu Dec 7 16:42:20 2023 -0500
+
+    Everything:
+
+commit bd68019061c0a4c966b6a75fe37b21823445e60d
+Author: MartyHilser <mhilser2001@gmail.com>
+Date:   Thu Dec 7 16:39:38 2023 -0500
+
+    Seg in func
+
+commit e567db986f372b1a752df5c1bcdb5d8c9cf33c4d
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Thu Dec 7 15:31:33 2023 -0500
+
+    Plot and Func work successfully
+
+commit 6ad6a4e925556d21cbca5e6af427e46d955ca4ae
+Author: MartyHilser <mhilser2001@gmail.com>
+Date:   Thu Dec 7 15:26:29 2023 -0500
+
+    New function data type
+
+commit a02c38fb3ad69aac7cf8277cdb59cc1f714374ce
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Thu Dec 7 15:23:32 2023 -0500
+
+    clean
+
+commit d32a2fd38c56b3a2286d4dc246e6130375f708b9
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Thu Dec 7 15:23:19 2023 -0500
+
+    trying to get rid of segmentation fault
+
+commit b88b1844ec9fb7c32e5152af3878a1ed626a1148
+Author: MartyHilser <mhilser2001@gmail.com>
+Date:   Thu Dec 7 15:21:22 2023 -0500
+
+    p
+
+commit 38feeb1bb2e446944fd6a3a7c779c5be688d95d2
+Author: MartyHilser <mhilser2001@gmail.com>
+Date:   Thu Dec 7 15:15:30 2023 -0500
+
+    Removing unique pointer
+
+commit 8ca08bf28508e29ee4e72463f6f8554142775b40
+Author: MartyHilser <mhilser2001@gmail.com>
+Date:   Thu Dec 7 15:06:47 2023 -0500
+
+    no warnings
+
+commit a3028180766fc46c229a168c7ee077eeb3107fcc
+Author: MartyHilser <mhilser2001@gmail.com>
+Date:   Thu Dec 7 15:04:44 2023 -0500
+
+    Renderers
+
+commit 0c8fc6b2672a6060544881361f81d91ff7ee91ed
+Author: Melissa <melissam021004@gmail.com>
+Date:   Thu Dec 7 15:03:51 2023 -0500
+
+    Added to plot.h and fill.h
+
+commit 9bc293770a21bce94c07fa05dc95304a38de7f0c
+Merge: 57361f7 9d79a0f
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Thu Dec 7 15:00:10 2023 -0500
+
+    trying to merge
+
+commit 9d79a0fbd89a93017f75b439b338d5f54ea94793
+Author: Melissa <melissam021004@gmail.com>
+Date:   Thu Dec 7 14:54:43 2023 -0500
+
+    nothing
+
+commit 57361f7604399d09d251d62597e2bc54448508b9
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Thu Dec 7 14:53:49 2023 -0500
+
+    clean
+
+commit 573148bd86f41df25b52185b0902296500ac34cf
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Thu Dec 7 14:53:34 2023 -0500
+
+    getting a segmentation fault
+
+commit fa9fea39bf25861e185bd6e94a614b3332378704
+Author: MartyHilser <mhilser2001@gmail.com>
+Date:   Thu Dec 7 14:36:17 2023 -0500
+
+    Renderer
+
+commit 70d48116d20d4ce7fad79e06bd5d07d0ea0b9bd7
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Thu Dec 7 14:08:30 2023 -0500
+
+    clean
+
+commit 40842ac249e0df92a6bb6593cc9ec4c8d0b4dbf2
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Thu Dec 7 14:08:12 2023 -0500
+
+    parser and eval have no data leaks now
+
+commit dd1478d1d8a72cdc1021cd4767bc1ec2c96229d8
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Thu Dec 7 12:25:28 2023 -0500
+
+    making sure up to date
+
+commit a61bc6a2ff4ebb5887018c9b90318aae875bb1f1
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Thu Dec 7 11:30:12 2023 -0500
+
+    all functions work for the parser and evaluate!
+
+commit b0b28e30c8e9debd5341614803049aafbb47b980
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Thu Dec 7 10:27:44 2023 -0500
+
+    cleaning
+
+commit 8ae0f8652c0a45acea6de0c901b9308dbcc8e1cc
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Thu Dec 7 10:27:24 2023 -0500
+
+    bug fixing
+
+commit ee1e128575293a0d47034e827881e190d68dee7b
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Thu Dec 7 00:41:03 2023 -0500
+
+    tried to get relations working
+
+commit 00c85d331433ff4c1ff68fe25e167b399f328cce
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Thu Dec 7 00:02:14 2023 -0500
+
+    cleaned
+
+commit 99b508f8b29c5c6b7fb8800dafc7017b19c06790
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Thu Dec 7 00:01:50 2023 -0500
+
+    working on fixing parent child relations
+
+commit a9201166b9804e45eb2014e64c56f94061a599e5
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Wed Dec 6 23:07:50 2023 -0500
+
+    added evals
+
+commit 76c9290a20983ac2b5ef5423e4a5b6fa320f3ee8
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Wed Dec 6 22:06:58 2023 -0500
+
+    parse works
+
+commit 5c49951e85afb3df3e9db2327a973f8ccb243527
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Wed Dec 6 18:45:05 2023 -0500
+
+    got the make file compiling, big fixing
+
+commit 0b7b870c9789a8e9a780aa2e09806c4dc0b7ecf4
+Author: MartyHilser <mhilser2001@gmail.com>
+Date:   Wed Dec 6 16:06:40 2023 -0500
+
+    More renderer changes
+
+commit c9cee3ab2005804dff61e0fe85177f815af65d17
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Dec 6 16:00:11 2023 -0500
+
+    added all the examples
+
+commit 34aa801cf6635febd16c2d2f69183cfbdf3c24e0
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Dec 6 15:53:36 2023 -0500
+
+    fixed small error
+
+commit c504be35b55bc429bb33c70208a4811df231c00a
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Dec 6 15:50:35 2023 -0500
+
+    finished set color for functions
+
+commit 008007e4d10086ffc33d9a3d1302f85a47c0325d
+Author: MartyHilser <mhilser2001@gmail.com>
+Date:   Wed Dec 6 15:29:51 2023 -0500
+
+    Near complete implementation of renderer with small changes to plot
+
+commit 8ea66adc5678e0caffff9cbbfabdbd6fa2770617
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Dec 6 15:27:45 2023 -0500
+
+    added children methods
+
+commit 9d46df0aea3e71872fbe9302657b42d5c225057f
+Author: MartyHilser <mhilser2001@gmail.com>
+Date:   Wed Dec 6 14:40:34 2023 -0500
+
+    Beginning implementation of renderer and added way to retrieve functions from plot.h
+
+commit ec136bb059ee058bd789688a44430ecc03ede9c4
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Dec 6 14:34:13 2023 -0500
+
+    added exp_child addition function
+
+commit a6eb39531db00d092f1eab20d536643bf3cd1969
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Wed Dec 6 13:03:11 2023 -0500
+
+    fixed error type
+
+commit 7bfadfa6da19050b7cd5301300dfc8dd64fda712
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Wed Dec 6 13:01:10 2023 -0500
+
+    added error checking for invalid plot directives
+
+commit c42c9e29c1f720f8773e55a9ce3bd003f7e7c730
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Dec 6 10:13:35 2023 -0500
+
+    Added set/get color for image
+
+commit 7a809e9c159905eefa2900692a20283545c27974
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Wed Dec 6 01:08:00 2023 -0500
+
+    fixed some errors
+
+commit 7998f7fc369b84de91b08e3493a4d0df404a1bf1
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Wed Dec 6 00:56:06 2023 -0500
+
+    finished add_child functions
+
+commit ec853b03f2b4ca2ce803eb476fdfa088e423d9c4
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Tue Dec 5 21:49:15 2023 -0500
+
+    finished parse function for expr
+
+commit ec8bf2a2db1623605a3a077ef1e6d102d3b21a8a
+Author: Kadin Khalloufi <khalloufikadin@gmail.com>
+Date:   Tue Dec 5 20:59:07 2023 -0500
+
+    fixed error
+
+commit fc701bfda6f928b792b7fb0205fabe06840d4dfb
+Author: Melissa <melissam021004@gmail.com>
+Date:   Tue Dec 5 20:24:16 2023 -0500
+
+    some additions to parser
+
+commit 1556181dec0cba67b446d3339645bcc9c08100f8
+Author: Melissa <melissam021004@gmail.com>
+Date:   Tue Dec 5 15:26:20 2023 -0500
+
+    Some progress on the parser
+
+commit 610e831b9a26764a6d3f7841153959da278b5ece
+Author: Melissa <melissam021004@gmail.com>
+Date:   Mon Dec 4 15:21:54 2023 -0500
+
+    Started set color in plot
+
+commit d10189b3b9a87637f7d501455a026ec397076e35
+Author: Melissa <melissam021004@gmail.com>
+Date:   Mon Dec 4 08:55:19 2023 -0500
+
+    Implemented bounds class, working on plot class setting bounds
+
+commit d84394ca61d08949fe32b80e2cd685582df10d13
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sun Dec 3 12:14:38 2023 -0500
+
+    Made switch statement for directives
+
+commit 3bd5db783952daa83c4c888af0b167648ae360e9
+Author: MartyHilser <mhilser2001@gmail.com>
+Date:   Fri Dec 1 16:05:38 2023 -0500
+
+    Additional updates to reader and creation of plot methods
+
+commit 924ef8a93e3d5c4a87a3b719ae756a97adb6e3b2
+Author: MartyHilser <mhilser2001@gmail.com>
+Date:   Wed Nov 29 15:36:10 2023 -0500
+
+    Beginning of Reader.cpp
+
+commit 037073ba866cf87231d9a91bbd16a73076ea8107
+Author: MartyHilser <mhilser2001@gmail.com>
+Date:   Thu Nov 23 22:32:51 2023 -0500
+
+    Read Me file added
+
+commit 97bdfb8e2cb2de6d17e0757ddbac41de2dde9697
+Author: Melissa <melissam021004@gmail.com>
+Date:   Tue Nov 21 17:23:36 2023 -0500
+
+    Starter files

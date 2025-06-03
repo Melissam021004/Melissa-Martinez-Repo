@@ -1,0 +1,50 @@
+TEAM:
+Martin Hilser / mhilser1
+Melissa Martinez / mmart213
+Kadin Khalloufi / kkhallo1
+
+Design:
+
+Overall Design Description: The program reads a file that contains functions, colors, and filling commands, and creates a PNG image which creates the graphs containing the functions and the unique fill commands of certain colors. 
+
+Components:
+
+Color: Struct of Integers r, g, and b, which are formed in an array to create the image.
+
+Image: A file constructed by a 1-dimensional array of Colors. This creates a grid of pixels in row-major order, filling the entire grid row by row. 
+
+Exception: Handles all errors in events of invalid input.
+
+Renderer: Interprets both the reader's commands, and evaluates the x values of each function to fill in a Color array based on the functions and instructions, which is used by the image.
+
+Fill: Contains the opacity, color, and other data required by render to carry out drawing instructions.
+
+Plot: Contains bounds, functions, and colors, and acts as a hub to store much of the data required for the creation of the graph.
+
+Func: Held an object containing an expr, and a name, which are both to be plotted on the image.
+
+Bounds: Holds the bounds of the plot as an object for data to be easier to hold for the plot.
+
+Expr: An expression which is derived from expr_parse. This expression can be evaluated by plugging in a value for x. This expression is repeated constantly for every value of x in the graph to receive a y which will be plotted.
+
+Expr_parse: Used by expr to translate a string from the input file to an expression to be stored in expr and then read.
+
+Reader: Takes an input file name, an output file name, and other commands, and begins the process of object creation.
+
+Data Flow: 
+After execution, the reader takes the input and opens the input file to read instructions. Those instructions are passed to both plot and expr_parse. Expr_parse translates that for expr to create expressions that will be members of the function class. The plot then stores the data of all the functions, takes the rest of the data from the reader, and uses that to create the bounds of the PNG image and store info for the graph. Fill also stores data from the reader regarding specification color instructions of the graph, like Fill Above and Fill Below. Finally, the renderer then reads the data to plot, calculates, and graphs the data from each function onto a PNG with the help of data from fill, and the write from image. 
+
+Testing:
+	We performed meticulous integration testing, testing each component individually before adding it to the whole. From there, we then unit tested for many examples, before confidently turning it in.
+
+Performance Considerations:
+The consistent use of maps may be a cause for concern in our performance since the accumulation of multiple maps does require looks of memory. We had a map of maps in our renderer, which may significantly slow down the speed of our program.
+
+Future Enhancements:
+	In the future, this program can work as a showing of mathematical art. The graphs with such basic functions are beautiful, so with the addition of more advanced functions like arctan, there is the potential to make beautiful art just from mathematics.
+	
+Completeness:
+This should be complete as all the tests have passed; there are no leaks and all the errors work when handled properly. Functionality is there and should be successful as an image is produced with the correct parameters.
+
+Other: 
+This project was manageable, but we feel that the pixel-perfect expectations are strange due to the inaccuracies that could be created. We had to convert EVERYTHING in our calculations into doubles to pass all the tests. Maybe a threshold of 10 pixels could be appropriate.

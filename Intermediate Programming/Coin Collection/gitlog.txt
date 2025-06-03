@@ -1,0 +1,107 @@
+commit 9c9b48cdf05cf881fe62e496c522efc399f85c77
+Author: Melissa <melissam021004@gmail.com>
+Date:   Thu Sep 14 16:09:40 2023 -0400
+
+    working coins.c, need to check
+
+commit eac5ee8166a2eef718b714a82f2ce523959439c2
+Author: Melissa <melissam021004@gmail.com>
+Date:   Thu Sep 14 11:48:33 2023 -0400
+
+    updated coins.c, still need to fix ctrl d situation
+
+commit f59683b0054f49c24dedd27536518fec0f2c90e4
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Sep 13 16:16:34 2023 -0400
+
+    updated coins.c but doesn't work
+
+commit 27cc88cefa78e4a5164da0fffe7926f2d5dffc66
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Sep 13 13:52:53 2023 -0400
+
+    updated coins.c, stopped at commands
+
+commit 05de0906fcf6d95be849a44d40d56c21790b7c8d
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Sep 13 13:23:58 2023 -0400
+
+    ex05 count3 working version
+
+commit 68c6df52d20ab8a26e6faa782c8578384840fd56
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Sep 13 12:26:01 2023 -0400
+
+    ex05 count2 working version
+
+commit f61884675a969dd5e56deeb54d9ceb7de2fed0fd
+Author: Melissa <melissam021004@gmail.com>
+Date:   Wed Sep 13 12:19:28 2023 -0400
+
+    ex05 count1 working version
+
+commit 26e510c46f237e6afb74640b2a7a0d39859cb8f7
+Author: Melissa <melissam021004@gmail.com>
+Date:   Mon Sep 11 16:03:38 2023 -0400
+
+    ex04 gpa working version
+
+commit 8d845ed5931ff4440e523b11d472b3526eb856e8
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Sep 9 18:45:36 2023 -0400
+
+    created coins.c
+
+commit f05eb8a833b1b5575f0be20950db6e0ada3d9f43
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Sep 9 18:25:31 2023 -0400
+
+    updated one.c
+
+commit f5ccf3d940f4f351996f9188563a14e487cfc337
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Sep 9 18:21:07 2023 -0400
+
+    created three.c
+
+commit fb46c240853807497592c665ec76c0c3059fa616
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Sep 9 18:20:53 2023 -0400
+
+    created two.c
+
+commit 9435919e30d91b8f4b90b83163552843596c5fcc
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Sep 9 18:20:33 2023 -0400
+
+    created one.c
+
+commit e1ff831d0620dbd5c0f7ffdc9fc3dd1586f82a40
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Sep 9 17:44:33 2023 -0400
+
+    Updated comment on one.c
+
+commit 1d6ad55cc98eb38694d746fcd7e1ee7e324e3c5f
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Sep 9 17:35:28 2023 -0400
+
+    homework folder created
+
+commit 89dd4857d1a560d59ba51aea8d139b2e2d5ae2ef
+Author: Melissa <melissam021004@gmail.com>
+Date:   Sat Sep 9 17:27:13 2023 -0400
+
+    created one.c for hw0
+
+commit 5ef5ab4a78d6b780c09729bb3c54bfe1bb625c9f
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Sep 8 08:47:15 2023 -0400
+
+    updated README
+
+commit 41dd258848660bd70e247eae7c6787c788311ab8
+Author: Melissa <melissam021004@gmail.com>
+Date:   Fri Sep 8 08:43:41 2023 -0400
+
+    created README

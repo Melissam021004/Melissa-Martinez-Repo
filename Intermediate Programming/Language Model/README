@@ -1,0 +1,5 @@
+Melissa Martinez mmart213
+
+I chose to do the maps simply because it would eliminate the issue of checking for duplicate trigrams. It was simply easier to check if it already existed in the map and if not, create it as a key. I also chose to do tuples instead a class for the trigram because I had already worked out quite a bit of the code before we covered classes, so I felt more comfortable with using tuples. 
+
+I also think I made my life easier by creating a reverse print function instead of creating a function that reverse alphebetized my map. It made the code a lot shorter, enough so that I didn't need to make helper functions for 3/4 of the commands. 
