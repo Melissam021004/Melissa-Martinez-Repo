@@ -1,0 +1,4 @@
+This was the final project for my Principles of Data Science class in Fall 2025. In this project, I was tasked with using the BreakHis_v1 dataset with transfer learning to create a model that could accurately predict whether an image of cancer was either benign or malignant. 
+
+
+In the program, I was able to achieve about a 99% accuracy, and employed tactics such as rotating and flipping images of slides to create a larger dataset. A key player was the Folds.csv file, which listed the paths for all of the images in the dataset, as they are very nested and difficult to get to otherwise. However, given that there are various photos per patient, the file sometimes labeled patients as both training and test. Therefore, I included a function to account for this to make sure there wasn't leakage when training the neural network.
